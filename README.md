@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/assets/github-header-solana-improvement-documents.png" alt="Solana Improvement Documents - Solana protocol proposal documents" width="100%" />
+</p>
+
 # Solana Improvement Documents (SIMDs)
 
 The goal of the SIMD project is to standardize and provide high-quality
@@ -48,3 +52,7 @@ The SIMD repository has three levels of access, as detailed in
 
 To request access or report misuse, please follow the procedures outlined in
 SIMD-0007.
+
+<p align="center">
+  <img src="./docs/assets/github-footer-parad0xlabs.png" alt="NULL - Parad0xLabs open source systems" width="100%" />
+</p>
